@@ -17,7 +17,7 @@ Day 1:
 * Pierre Pronchery: The DeforaOS Project - A journey into Operating System development and related security aspects
 * Chris Nickerson - 50 Shades of RED: Stories from the "Playroom"	([slides from CONFidence - probably identical](http://www.slideshare.net/indigosax1/confidence2014))
 * Evgeny Neyolov: Bitcoins
-* Andreas Bogk: Applying science to eliminate 100% of buffer overflows
+* Andreas Bogk: Applying science to eliminate 100% of buffer overflows ([slides from 30C3 - probably identical](http://blog.andreas.org/static/30c3-buffer-overflows.pdf))
 * Chris John Riley - REDACTED
 
 Day 2:
