@@ -7,7 +7,7 @@ Please help making it complete!
 Day 1:
 * Opening Ceremony	-
 * [Keynote: Halvar Flak](https://docs.google.com/presentation/d/1dRk1czhS0FSNcWEFdRea2_QN7AVuGFLjxL-7gEXBe7w/edit?pli=1#slide=id.p)	-
-* Rob Fuller: Attacker Ghost Stories: Mostly Free Defenses That Gives Attackers Nightmares ([slides from shmoocon - probably identical](http://www.slideshare.net/mubix/attacker-ghost-stories-shmoocon-2014-30153988))
+* Rob Fuller: Attacker Ghost Stories: Mostly Free Defenses That Gives Attackers Nightmares ([slides from ShmooCon - probably identical](http://www.slideshare.net/mubix/attacker-ghost-stories-shmoocon-2014-30153988))
 * Stefan Frei: International Vulnerability Purchase Program (IVPP)
 * Marc Ruef: Adventures in a Decade of Tracking and Consolidating Security Vulnerabilities	
 * Ruchna Nigam: Android Packers: Separating from the Pack
@@ -15,7 +15,7 @@ Day 1:
 * Alexandre Herzog: Why .NET needs MACs and other serial(-ization) tales
 * [Ange Albertini and Gynvael Coldwind: Schizophrenic Files – A file that thinks it's many](https://drive.google.com/folderview?id=0B5y5AGVPzpIOZnlyR3lvR2F4R2s&usp=drive_web)
 * Pierre Pronchery: The DeforaOS Project - A journey into Operating System development and related security aspects
-* Chris Nickerson - 50 Shades of RED: Stories from the "Playroom"	
+* Chris Nickerson - 50 Shades of RED: Stories from the "Playroom"	([slides from CONFidence - probably identical](http://www.slideshare.net/indigosax1/confidence2014))
 * Evgeny Neyolov: Bitcoins
 * Andreas Bogk: Applying science to eliminate 100% of buffer overflows
 * Chris John Riley - REDACTED
