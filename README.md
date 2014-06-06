@@ -14,7 +14,7 @@ Day 1:
 * Juriaan Bremer and Marion Marschalek: Curing A 15 Year Old Disease
 * Alexandre Herzog: Why .NET needs MACs and other serial(-ization) tales
 * [Ange Albertini and Gynvael Coldwind: Schizophrenic Files – A file that thinks it's many](https://drive.google.com/folderview?id=0B5y5AGVPzpIOZnlyR3lvR2F4R2s&usp=drive_web)
-* Pierre Pronchery: The DeforaOS Project - A journey into Operating System development and related security aspects
+* [Pierre Pronchery: The DeforaOS Project - A journey into Operating System development and related security aspects](http://lists.defora.org/devel/2014/06/pdfIEgjsIxL07.pdf)
 * Chris Nickerson - 50 Shades of RED: Stories from the "Playroom"	([slides from CONFidence - probably identical](http://www.slideshare.net/indigosax1/confidence2014))
 * Evgeny Neyolov: Bitcoins
 * Andreas Bogk: Applying science to eliminate 100% of buffer overflows ([slides from 30C3 - probably identical](http://blog.andreas.org/static/30c3-buffer-overflows.pdf))
