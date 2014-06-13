@@ -7,7 +7,7 @@ Please help making it complete!
 Day 1:
 * Opening Ceremony	-
 * [Keynote: Halvar Flak](https://docs.google.com/presentation/d/1dRk1czhS0FSNcWEFdRea2_QN7AVuGFLjxL-7gEXBe7w/edit?pli=1#slide=id.p)	-
-* Rob Fuller: Attacker Ghost Stories: Mostly Free Defenses That Gives Attackers Nightmares ([slides from ShmooCon - probably identical](http://www.slideshare.net/mubix/attacker-ghost-stories-shmoocon-2014-30153988))
+* [Rob Fuller: Attacker Ghost Stories: Mostly Free Defenses That Gives Attackers Nightmares](http://www.slideshare.net/mubix/attacker-ghost-stories-carolinacon-area41-rvasec)
 * [Stefan Frei: International Vulnerability Purchase Program (IVPP)](http://techzoom.net/papers/area41_ivpp_talk_2014.pdf) ([related paper](http://www.techzoom.net/papers/nss_international_vulnerability_purchase_program_ivpp_2013.pdf))
 * [Marc Ruef: Adventures in a Decade of Tracking and Consolidating Security Vulnerabilities](http://www.scip.ch/publikationen/praesentationen/scip_area41-2014_vuldb.pdf)
 * Ruchna Nigam: Android Packers: Separating from the Pack
