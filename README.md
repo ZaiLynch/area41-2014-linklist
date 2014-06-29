@@ -10,8 +10,8 @@ Day 1:
 * [Rob Fuller: Attacker Ghost Stories: Mostly Free Defenses That Gives Attackers Nightmares](http://www.slideshare.net/mubix/attacker-ghost-stories-carolinacon-area41-rvasec)
 * [Stefan Frei: International Vulnerability Purchase Program (IVPP)](http://techzoom.net/papers/area41_ivpp_talk_2014.pdf) ([related paper](http://www.techzoom.net/papers/nss_international_vulnerability_purchase_program_ivpp_2013.pdf))
 * [Marc Ruef: Adventures in a Decade of Tracking and Consolidating Security Vulnerabilities](http://www.scip.ch/publikationen/praesentationen/scip_area41-2014_vuldb.pdf)
-* Ruchna Nigam: Android Packers: Separating from the Pack
-* Juriaan Bremer and Marion Marschalek: Curing A 15 Year Old Disease
+* [Ruchna Nigam: Android Packers: Separating from the Pack](http://www.fortiguard.com/uploads/general/Area41Public.pdf) ([Source](https://www.fortiguard.com/paper/Android-Packers--Separating-from-the-Pack/))
+* [Juriaan Bremer and Marion Marschalek: Curing A 15 Year Old Disease](http://www.slideee.com/slide/juriaan-bremer-und-marion-marschalek-curing-a-15-year-old-disease)
 * Alexandre Herzog: Why .NET needs MACs and other serial(-ization) tales
 * [Ange Albertini and Gynvael Coldwind: Schizophrenic Files – A file that thinks it's many](https://drive.google.com/folderview?id=0B5y5AGVPzpIOZnlyR3lvR2F4R2s&usp=drive_web)
 * [Pierre Pronchery: The DeforaOS Project - A journey into Operating System development and related security aspects](http://lists.defora.org/devel/2014/06/pdfIEgjsIxL07.pdf)
