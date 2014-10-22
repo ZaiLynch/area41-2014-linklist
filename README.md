@@ -28,9 +28,9 @@ Day 2:
 * [Raul Siles: iOS: Back to the Future](http://www.dinosec.com/docs/iOS-BTTF_Area41-2014_RaulSiles_DinoSec_v1.0.pdf)
 * [Jean-Philippe Aumasson: Password Hashing Competition - Status Quo](http://aumasson.jp/data/talks/phc_area41.pdf)
 * Wim Remes: Threat Modeling? It's not out of fashion!	
-* Shahar Tal: I Hunt TR-069 Admins: Pwning ISPs Like a Boss
+* Shahar Tal: I Hunt TR-069 Admins: Pwning ISPs Like a Boss ([slides from 44con - quite close](http://www.slideshare.net/44Con/i-hunttr069adminsshahartal44con))([slides from DefCon](https://media.defcon.org/DEF%20CON%2022/DEF%20CON%2022%20presentations/Shahar%20Tal%20-%20Updated/DEFCON-22-Shahar-TaI-I-hunt-TR-069-admins.pdf))
 * Arron Finnon: Finux's Historical Tour Of IDS Evasion, Insertions, and Other Oddities
 * Emmanuel Tacheau: The Art of Escape
-* Dave Kennedy - Completely Destroying Education and Awareness Programs	
+* Dave Kennedy - Completely Destroying Education and Awareness Programs	([Video from OISF 2014](https://www.youtube.com/watch?v=RXtCXbw5j7U))
 * [Pascal Junod: Obfuscator-LLVM – Software Obfuscation for the Masses](http://crypto.junod.info/area41_talk.pdf)
 * Closing Ceremony
